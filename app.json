@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Justbestow",
-    "slug": "Justbestow",
+    "slug": "justbestow",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -12,6 +12,8 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.wajeehshaikh.justbestow",
+      "versionCode": 1,
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
